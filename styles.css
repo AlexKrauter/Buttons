@@ -1,0 +1,37 @@
+
+	.button {
+		/* styling */
+		position: fixed;
+		padding: 12px;
+		background-color: #0d0;
+		border-style: none;
+		border-radius: 10px;
+		color: white;
+		font-weight: bold;
+		font-family: 'Trebuchet MS', serif;
+		font-size: 20px;
+		width: 180px;
+		text-align: center;
+		user-select: none;
+	}
+
+	.score {
+		background-color: grey;
+		font-family: 'Trebuchet MS', serif;
+		text-align: center;
+		font-size: 40px;
+		color: white;
+	}
+
+	body {
+		margin: 0px;
+	}
+.reload {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 47px;
+  height: 47px;
+  background-color: blue;
+}
+	
